@@ -9,8 +9,7 @@ builds and compares three model families on a well-known clinical benchmark and 
 as an interactive web app.
 
 ## 🔗 Live demo
-> Deploy this repo on [Streamlit Community Cloud](https://share.streamlit.io) (free) and drop the
-> link here. See **Deployment** below — it takes about 2 minutes.
+**[breast-cancer-ml-predictor-deyydcvx954tipzcyzbyzu.streamlit.app](https://breast-cancer-ml-predictor-deyydcvx954tipzcyzbyzu.streamlit.app/)**
 
 ## 📊 Results
 
